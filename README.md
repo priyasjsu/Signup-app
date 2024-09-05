@@ -22,7 +22,7 @@ This project is a basic sign-up application using TypeScript, Express, and some 
 1. **Clone the Repository**
 ### Frontend
    ```bash
-   git clone (https://github.com/priyasjsu/Signup-app.git)
+   git clone https://github.com/priyasjsu/Signup-app.git
    
    cd server
    npm install
